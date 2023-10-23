@@ -2,9 +2,8 @@
 
 
 
-## I'm a university graduate software developer
-- Graduated from the university of lincoln
-- looking for a job in software development
+## Currently A master's student at the University of Lincoln 
+- Graduated with my Undergraduate degree at the University of Lincoln
 - learning how to web dev 
 
 
