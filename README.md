@@ -4,7 +4,7 @@
 
 ## Education
 - 🎓 Bachelor's Degree: [BSc(Hons)Computer Science], University of Lincoln
-- 📚 Master's Degree: Currently pursuing MSc at the University of Lincoln, specializing in [Your Specialization]
+- 📚 Master's Degree: Currently pursuing MSc at the University of Lincoln, specializing in [Computer Science]
 
 ## Learning Journey
 - 🌐 Currently exploring the world of web development and sharpening my skills in [Specific Technologies/Languages].
