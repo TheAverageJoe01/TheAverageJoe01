@@ -6,10 +6,6 @@
 - 🎓 Bachelor's Degree: [BSc(Hons)Computer Science], University of Lincoln
 - 📚 Master's Degree: Currently pursuing MSc at the University of Lincoln, specializing in [Computer Science]
 
-## Learning Journey
-- 🌐 Currently exploring the world of web development and sharpening my skills in [Specific Technologies/Languages].
-- 🚀 Working on exciting projects to apply theoretical knowledge into practical solutions.
-
 ## Personal Information
 [![website](./img/globe-light.svg)](http://www.joesmith.xyz#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](http://www.joesmith.xyz#gh-dark-mode-only)
