@@ -2,19 +2,21 @@
 
 
 
-## Currently A master's student at the University of Lincoln 
-- Graduated with my Undergraduate degree at the University of Lincoln
-- Currently studying an MSc at the University of Lincoln
-- learning how to web dev 
+## Education
+- 🎓 Bachelor's Degree: [Your Undergraduate Degree], University of Lincoln
+- 📚 Master's Degree: Currently pursuing MSc at the University of Lincoln, specializing in [Your Specialization]
 
+## Learning Journey
+- 🌐 Currently exploring the world of web development and sharpening my skills in [Specific Technologies/Languages].
+- 🚀 Working on exciting projects to apply theoretical knowledge into practical solutions.
 
-### Personal information
-[![website](./img/globe-light.svg)](www.joesmith.xyz#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](www.joesmith.xyz#gh-dark-mode-only)
+## Personal Information
+[![website](./img/globe-light.svg)](http://www.joesmith.xyz#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](http://www.joesmith.xyz#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/joseph-smith-5bab7a1b7/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/joseph-smith-5bab7a1b7/#gh-dark-mode-only)
+[![LinkedIn](./img/linkedin-light.svg)](https://www.linkedin.com/in/joseph-smith-5bab7a1b7/#gh-light-mode-only)
+[![LinkedIn](./img/linkedin-dark.svg)](https://www.linkedin.com/in/joseph-smith-5bab7a1b7/#gh-dark-mode-only)
 &nbsp;&nbsp;
 
-### Github Stats
-<img align="centre" alt="Joseph Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheAverageJoe01&show_icons=true&theme=darcula" />
+## GitHub Stats
+![Joseph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheAverageJoe01&show_icons=true&theme=darcula)
