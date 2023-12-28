@@ -3,7 +3,7 @@
 
 
 ## Education
-- 🎓 Bachelor's Degree: [Your Undergraduate Degree], University of Lincoln
+- 🎓 Bachelor's Degree: [BSc(Hons)Computer Science], University of Lincoln
 - 📚 Master's Degree: Currently pursuing MSc at the University of Lincoln, specializing in [Your Specialization]
 
 ## Learning Journey
